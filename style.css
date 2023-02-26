@@ -1,0 +1,270 @@
+.navofbootstrap {
+    background-color: black !important;
+}
+
+.ee {
+    visibility: hidden;
+}
+
+.BermWorld {
+    /* initial-letter-align: url(https://images.unsplash.com/photo-1614852206732-6728910dc175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVycGxlJTIwZ3JhZGllbnR8ZW58MHx8MHx8&w=1000&q=80) !important; */
+    color: rgb(67, 252, 239) !important;
+}
+
+.BermWorld:hover {
+    /* initial-letter-align: url(https://images.unsplash.com/photo-1614852206732-6728910dc175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVycGxlJTIwZ3JhZGllbnR8ZW58MHx8MHx8&w=1000&q=80) !important; */
+    color: white !important;
+}
+
+.BermWorl {
+    /* initial-letter-align: url(https://images.unsplash.com/photo-1614852206732-6728910dc175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVycGxlJTIwZ3JhZGllbnR8ZW58MHx8MHx8&w=1000&q=80) !important; */
+    color: rgb(207, 250, 250) !important;
+}
+
+.BermWorl:hover {
+    /* initial-letter-align: url(https://images.unsplash.com/photo-1614852206732-6728910dc175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVycGxlJTIwZ3JhZGllbnR8ZW58MHx8MHx8&w=1000&q=80) !important; */
+    color: rgb(67, 252, 239) !important;
+}
+
+.BermWor {
+    /* initial-letter-align: url(https://images.unsplash.com/photo-1614852206732-6728910dc175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVycGxlJTIwZ3JhZGllbnR8ZW58MHx8MHx8&w=1000&q=80) !important; */
+    color: rgb(207, 250, 250) !important;
+}
+
+.BermWor:hover {
+    /* initial-letter-align: url(https://images.unsplash.com/photo-1614852206732-6728910dc175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVycGxlJTIwZ3JhZGllbnR8ZW58MHx8MHx8&w=1000&q=80) !important; */
+    color: rgb(67, 252, 239) !important;
+}
+
+.BermWo {
+    /* initial-letter-align: url(https://images.unsplash.com/photo-1614852206732-6728910dc175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVycGxlJTIwZ3JhZGllbnR8ZW58MHx8MHx8&w=1000&q=80) !important; */
+    color: rgb(207, 250, 250) !important;
+}
+
+.BermWo:hover {
+    /* initial-letter-align: url(https://images.unsplash.com/photo-1614852206732-6728910dc175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVycGxlJTIwZ3JhZGllbnR8ZW58MHx8MHx8&w=1000&q=80) !important; */
+    color: rgb(67, 252, 239) !important;
+}
+
+.BermW {
+    /* initial-letter-align: url(https://images.unsplash.com/photo-1614852206732-6728910dc175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVycGxlJTIwZ3JhZGllbnR8ZW58MHx8MHx8&w=1000&q=80) !important; */
+    color: rgb(207, 250, 250) !important;
+}
+
+.BermW:hover {
+    /* initial-letter-align: url(https://images.unsplash.com/photo-1614852206732-6728910dc175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVycGxlJTIwZ3JhZGllbnR8ZW58MHx8MHx8&w=1000&q=80) !important; */
+    color: rgb(67, 252, 239) !important;
+}
+
+.lastimgofheader {
+    margin-top: 6px !important;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.lastimgofheader:hover {
+    margin-top: 6px !important;
+    border: 3px inset darkturquoise;
+    background-color: cyan;
+    border-radius: 20px;
+}
+
+.bodyone {
+    background-image: url(https://cdn-media-2.freecodecamp.org/w1280/5f9c9cfc740569d1a4ca3543.jpg);
+    background-attachment: fixed;
+    height: 150%;
+    width: 100%;
+}
+
+.headinginboyone {
+    font-size: 38px;
+    text-align: center;
+    font-weight: 700;
+    padding: 50px;
+    color: rgb(255, 252, 252);
+    
+}
+#head{
+    margin-top: 70px;
+}
+
+.firstimgofbodyone {
+    margin: 20px 0px 0px 20px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 15px;
+
+}
+
+.secimgofbodyone {
+    margin: 20px 0px 0px 20px;
+    width: 300px;
+    border-radius: 15px;
+
+}
+
+.ss {
+    width: 300px !important;
+}
+
+.line {
+    font-size: 35px;
+    margin-top: 50px;
+    margin-left: 10px;
+    color: rgb(160, 159, 159);
+}
+
+.line:hover {
+    font-size: 35px;
+    margin-top: 50px;
+    margin-left: 10px;
+    color: rgb(67, 252, 239);
+}
+
+.secimg {
+    margin-top: -6px;
+    margin-left: 10px;
+}
+
+.Collections {
+    margin-left: 25px;
+    margin-top: 0px;
+    color: grey;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Volume {
+    margin-left: 220px;
+    margin-top: 20px;
+    color: grey;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Floor-Price {
+    margin-left: 180px;
+    margin-top: 20px;
+    color: grey;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Items {
+    margin-left: 180px;
+    margin-top: 20px;
+    color: grey;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.boyimgnyoling {
+    width: 80px;
+    border: 2px solid palegoldenrod;
+    border-radius: 60px;
+    margin: 30px 0px 0px 20px;
+}
+
+.Nyolings {
+    margin-left: 30px;
+    font-size: 22px;
+    font-weight: bold;
+    position: relative;
+    top: 19px;
+    color: white;
+}
+
+.ETHone {
+    margin-left: 123px;
+    font-size: 22px;
+    font-weight: bold;
+    position: relative;
+    top: 19px;
+    color: white;
+}
+
+.ETHtwo {
+    margin-left: 133px;
+    font-size: 22px;
+    font-weight: bold;
+    position: relative;
+    top: 19px;
+    color: white;
+}
+
+.img {
+    margin-left: 180px;
+    width: 70px;
+    position: relative;
+    top: 13px;
+}
+.image{
+    position: relative;
+    top: 13px;
+    margin-left: -2px;
+    width: 70px;
+}
+#imag{
+    height: 70px;
+}
+.project{
+    font-size: 25px;
+    font-weight: 800;
+    margin-top: 40px;
+    margin-left: 50px;
+    color: white;
+}
+.projecttext{
+    font-size: 19px;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-left: 50px;
+    color: white;
+}
+.projecttextmaindiv{
+    background-image:url("https://cdn-media-2.freecodecamp.org/w1280/5f9c9cfc740569d1a4ca3543.jpg") ;
+    border: 0.1px solid white;
+    height: 180px;
+    width: 1100px;
+    margin: 40px 0px 0px 120px;
+    border-radius: 20px;
+}
+.buttonofnft{
+    font-size: 14px;
+    margin-left: 90px;
+    position: relative;
+    top: -10px;
+    font-weight: bold;
+    border: 2px solid white;
+    color: white;
+    background-color: transparent;
+    border-radius: 6px;
+    width: 150px;
+    padding: 12px;
+    cursor: pointer;
+    
+}
+.buttonofnft:hover{
+    font-size: 14px;
+    margin-left: 90px;
+    position: relative;
+    top: -10px;
+    font-weight: bold;
+    border: 2px solid rgb(7, 6, 6);
+    background-color: white;
+    color: black;
+    border-radius: 6px;
+    width: 150px;
+    padding: 12px;
+    cursor: pointer;
+
+}
+#e{
+    color: black !important;
+}
+.bodyonetwo{
+    background-image: url(https://cdn-media-2.freecodecamp.org/w1280/5f9c9cfc740569d1a4ca3543.jpg);
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100%;
+}
